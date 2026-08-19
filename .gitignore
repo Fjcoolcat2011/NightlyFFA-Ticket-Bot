@@ -1,0 +1,5 @@
+# Ignore Skript local variable databases and secrets
+/.gitignore
+/config.yml
+**/config.yml
+*.env
